@@ -1,6 +1,6 @@
 <?php
 
-    if (isse($_GET["nom"])) $nom=$_GET["nom"];
+    if (isset($_GET["nom"])) $nom=$_GET["nom"];
  
 ?>
 
