@@ -14,7 +14,7 @@
 </head>
 <body>
 
-    <h1><?= $nom?></h1>
+
 
     <form action="proba3.php" method="GET">
         <input type="text" name="nom">
