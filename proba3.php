@@ -1,7 +1,7 @@
 <?php
 
-    if (isset($_GET["nom"])) $nom=$_GET["nom"] ;
-
+    if (isset($_GET["nom"])) $nom=$_GET["nom"];
+ 
 ?>
 
 <!DOCTYPE html>
