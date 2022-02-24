@@ -16,7 +16,7 @@
 </head>
 <body>
 
-
+<!--Hola  Marc ****-->
 
     <form action="proba3.php" method="GET">
         <input type="text" name="nom">
